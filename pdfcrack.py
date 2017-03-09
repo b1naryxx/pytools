@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-
+# not mine , found at http://pastebin.com/v8UFiHCx
 __author__ = 'spyx'
 import PyPDF2
 import sys
